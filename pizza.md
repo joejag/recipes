@@ -22,12 +22,12 @@ Sauce
 Ingredients
 ===========
 
-400g tomatoe chopped
-15g sunflower oil
-12g sugar
-1g salt
-2t oregano
-1t basil
-0.5t garlic powder
-1g (0.5t) olive oil
+* 400g tomatoe chopped
+* 15g sunflower oil
+* 12g sugar
+* 1g salt
+* 2t oregano
+* 1t basil
+* 0.5t garlic powder
+* 1g (0.5t) olive oil
 
