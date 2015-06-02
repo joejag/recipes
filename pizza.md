@@ -23,10 +23,11 @@ Ingredients
 ===========
 
 400g tomatoe chopped
-3t sunflower oil
-3t sugar
-0.25t salt
-1t oregano
+15g sunflower oil
+12g sugar
+1g salt
+2t oregano
 1t basil
-1t garlic powder
-dash of olive oil
+0.5t garlic powder
+1g (0.5t) olive oil
+
