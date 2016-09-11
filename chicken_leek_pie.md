@@ -17,7 +17,7 @@
 * Add leek (2 min)
 * Add Madiera, set FIRE
 * Add Stock, simmer
-A* dd Tarragon and cream (simmer for 5m)
+* Add Tarragon and cream (simmer for 5m)
 
 * LET COOL
 
