@@ -11,10 +11,10 @@ Ingredients
 Method
 ======
 
-Raise yeast with water and sugar
-Water (half boil, half tap)
-Add salt
-Mix flour
+* Raise yeast with water and sugar
+* Water (half boil, half tap)
+* Add salt
+* Mix flour
 
 Sauce
 =====
