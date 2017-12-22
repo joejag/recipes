@@ -23,7 +23,7 @@
 
 ## Ingredients
 
-* 400g tomatoe chopped
+* 400g tomato chopped
 * 15g sunflower oil
 * 12g sugar
 * 1g salt
