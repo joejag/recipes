@@ -1,5 +1,7 @@
-Ingredients
-===========
+# Dough
+
+## Ingredients
+
 
 * 740g bread flour
 * 428g water
@@ -8,19 +10,18 @@ Ingredients
 * 52g veg oil
 * 30g sugar
 
-Method
-======
+## Method
 
-* Raise yeast with water and sugar
-* Water (half boil, half tap)
-* Add salt
-* Mix flour
+* Raise yeast with warn water and sugar
+* Add rest of warm water to mixing bowl
+* Add salt to mixing bowl
+* Add yeast mixture to mixing bowl
+* Mix flour to mixing bowl
+* Cover and leave to raise for an hour
 
-Sauce
-=====
+# Sauce
 
-Ingredients
-===========
+## Ingredients
 
 * 400g tomatoe chopped
 * 15g sunflower oil
@@ -30,4 +31,15 @@ Ingredients
 * 1t basil
 * 0.5t garlic powder
 * 1g (0.5t) olive oil
+
+## Method
+
+* Add together and blitz
+
+
+# Creation
+
+* Spread dough (roll into semolina flour to give texture) to thin
+* Add sauce + toppings + cheese
+* Heat in oven on a pizza stone at max temp
 
