@@ -2,7 +2,6 @@
 
 ## Ingredients
 
-
 * 740g bread flour
 * 428g water
 * 2t yeast
