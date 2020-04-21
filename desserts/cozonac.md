@@ -2,7 +2,7 @@
 
 * 500g flour
 * 300ml milk
-* 200g nutella
+* 300g nutella (mixed with some warm water to make it easier to spread)
 * 2Tb sugar
 * 50g butter
 * 2 egg yolks
