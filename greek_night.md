@@ -8,6 +8,8 @@
 * 1T lemon juice
 * 0.5k diced beef steak
 
+Method
+
 * Marinade for as long as possible
 * skewer, heat under med-high grill for 8 minutes (rotating half way)
 
