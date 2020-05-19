@@ -26,3 +26,11 @@ Method
 
 * 75g flour + 2t smoked paprikie, coat halloumi
 * Deep dry in sunflower oil for 1-2min
+
+# Hummus
+
+- Add (2T) tahini and lemon juice (2T) to mixer, 1 min, scrape, 30s
+- Add (2T) evoo, 1t garlic, 1/2t cumin, 1/2 salt, 30s, scrape, 30s
+- Add half chickpeas, 1m, scrape, add other half, 2m
+- Add 2.5T water (to smooth out)
+- Garnish with Paprike
