@@ -33,10 +33,10 @@
 
 * Add together and blitz
 
-
 # Creation
 
+* Put oven on highest temp
 * Spread dough (roll into semolina flour to give texture) to thin
-* Add sauce + toppings + cheese
-* Heat in oven on a pizza stone at max temp
+* Add sauce, cook for 4 minutes
+* Add toppings + cheese, cook for 7 minutes (or until cheese is melted)
 
