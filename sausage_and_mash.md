@@ -11,7 +11,7 @@
 
 * Peel and quarter the potatoes
 * Put potatoes in pan, add 1/2t salt, add water until covered
-* Bring to boil, reduce heat and simmer with cover for 15m
+* Bring to boil, reduce heat and simmer with cover for 15m (put sausages in the oven now)
 * Take potatoes out
 * Add milk (6T) and butter (60g) and melt in pan
 * Add potatoes
