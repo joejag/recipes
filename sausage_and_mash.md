@@ -18,6 +18,11 @@
 * Mash (add milk if not working)
 * Season
 
+# Perfect link sausage
+
+1. Set oven to 200c
+2. Put sausages in for 20 minutes
+
 # Gravy
 
 # Ingredients
