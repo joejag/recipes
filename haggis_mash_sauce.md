@@ -28,6 +28,6 @@
 
 ## Method
 
-* Add stock to pan
-* Add cream and whisky
+* Add stock to pan on medium heat
+* Add cream and whisky (don't boil)
 * Season with plenty of pepper
