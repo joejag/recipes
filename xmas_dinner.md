@@ -1,15 +1,21 @@
+## Oven
+
 Turkey
 Stuffing (Sausage)
 Pigs in blankets
 Roast potatoes
 Parsnips & Carrots
 
-broccoli
+## Hob
 
+broccoli
 Gravy
+
+## Cupboard
+
 Cranberry Sauce
 
-Plan
+# Plan
 
 - Assuming 2:15pm dinner
 
@@ -22,6 +28,8 @@ Plan
 * 14:15 Remove PigsInBlanket, Stuffing, Carrots/Parnsips
 
 
+## Turkey
+
 Turkey: https://www.which.co.uk/reviews/food-and-drink/article/complete-christmas-dinner-menu/how-to-cook-a-turkey-crown-aTuzi7S468QX
 Hugh: https://www.bbc.co.uk/food/recipes/roastleglessturkey_13963
 2kg – 1 hour 50 minutes
@@ -32,35 +40,34 @@ Cover in foil tent
 remove foil 30m before end. Baste
 Leave to rest for 15m in foil
 
+## Pigs in Blanket
 
 Both in oven at 180C for 30 mins!
 https://www.bbcgoodfood.com/recipes/classic-pigs-blankets
 8 rashers streaky bacon
 16 chipolatas
 
+## Sausage Stuffing
+
 https://www.bbc.co.uk/food/recipes/sagesausagestuffing_8912
 onion, garlic
 225g sausage meat
 1T parsley, 2T sage
 
+## Roasted Potatoes
+
 https://www.bbcgoodfood.com/recipes/ultimate-roast-potatoes
 1Kg Maris Piper
 180C for 45 min (turn every 15m). After bringing to boil and covering in flour
+
+## Carrots and Pansnips
 
 https://realfood.tesco.com/recipes/sticky-chantenay-carrots-and-parsnips-with-maple-syrup-and-mustard-glaze.html
 Carrots + Parsnips
 2T oo, 2T maple syrup, 1T mustard, 1/2 orange zested
 180C for 45m (turn every 15m).
 
+## Broccolu
+
 https://www.jamieoliver.com/recipes/vegetables-recipes/brilliant-broccoli/
 broccoli
-
-
-1.5kg turkey crown
-maple syrup
-8 rashers streaky bacon
-16 chipolatas
-450g sausage meat
-150g    
-250g frozen cranberyy
-parsley, sage (fresh)
