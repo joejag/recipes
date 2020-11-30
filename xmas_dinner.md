@@ -1,15 +1,15 @@
 ## Oven
 
-Turkey
-Stuffing (Sausage)
-Pigs in blankets
-Roast potatoes
-Parsnips & Carrots
+* Turkey (2hr, 15 rest)
+* Roast potatoes (boil, then 45m)
+* Parsnips & Carrots (45m)
+* Stuffing (Sausage) (30m)
+* Pigs in blankets (30m)
 
 ## Hob
 
-broccoli
-Gravy
+* Broccoli (5m)
+* Gravy (5m)
 
 ## Cupboard
 
