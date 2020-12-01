@@ -32,42 +32,42 @@ Cranberry Sauce
 
 Turkey: https://www.which.co.uk/reviews/food-and-drink/article/complete-christmas-dinner-menu/how-to-cook-a-turkey-crown-aTuzi7S468QX
 Hugh: https://www.bbc.co.uk/food/recipes/roastleglessturkey_13963
-2kg – 1 hour 50 minutes
-2.5kg – 2 hours
-3kg – 2 hours 10 minutes
-add butter below skin
-Cover in foil tent
-remove foil 30m before end. Baste
-Leave to rest for 15m in foil
+* 2kg – 1 hour 50 minutes
+* 2.5kg – 2 hours
+* 3kg – 2 hours 10 minutes
+* add butter below skin
+* Cover in foil tent
+* remove foil 30m before end. Baste
+* Leave to rest for 15m in foil
 
 ## Pigs in Blanket
 
-Both in oven at 180C for 30 mins!
+* Both in oven at 180C for 30 mins!
 https://www.bbcgoodfood.com/recipes/classic-pigs-blankets
-8 rashers streaky bacon
-16 chipolatas
+* 8 rashers streaky bacon
+* 16 chipolatas
 
 ## Sausage Stuffing
 
 https://www.bbc.co.uk/food/recipes/sagesausagestuffing_8912
-onion, garlic
-225g sausage meat
-1T parsley, 2T sage
+* onion, garlic
+* 225g sausage meat
+* 1T parsley, 2T sage
 
 ## Roasted Potatoes
 
 https://www.bbcgoodfood.com/recipes/ultimate-roast-potatoes
-1Kg Maris Piper
-180C for 45 min (turn every 15m). After bringing to boil and covering in flour
+* 1Kg Maris Piper
+* 180C for 45 min (turn every 15m). After bringing to boil and covering in flour
 
 ## Carrots and Pansnips
 
 https://realfood.tesco.com/recipes/sticky-chantenay-carrots-and-parsnips-with-maple-syrup-and-mustard-glaze.html
-Carrots + Parsnips
-2T oo, 2T maple syrup, 1T mustard, 1/2 orange zested
-180C for 45m (turn every 15m).
+* Carrots + Parsnips
+* 2T oo, 2T maple syrup, 1T mustard, 1/2 orange zested
+* 180C for 45m (turn every 15m).
 
-## Broccolu
+## Broccoli
 
 https://www.jamieoliver.com/recipes/vegetables-recipes/brilliant-broccoli/
-broccoli
+* broccoli
