@@ -60,7 +60,7 @@ https://www.bbcgoodfood.com/recipes/ultimate-roast-potatoes
 * 1Kg Maris Piper
 * 180C for 45 min (turn every 15m). After bringing to boil and covering in flour
 
-## Carrots and Pansnips
+## Carrots and Parsnips
 
 https://realfood.tesco.com/recipes/sticky-chantenay-carrots-and-parsnips-with-maple-syrup-and-mustard-glaze.html
 * Carrots + Parsnips
