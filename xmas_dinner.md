@@ -1,12 +1,12 @@
 # 2020 Plan
 
-* 13:40 Top oven: 190C add Turkey
-* 16:10 Bottom oven: 180C. Boil potatoes
-* 16:30 Top: Baste Turkey (heat to 200C). Bottom: Add potatoes & carrots/parsnips
-* 16:45 Bottom: Add PigsInBlanket & Stuffing
-* 17:00 Top: Remove Turkey. Bottom: Add sauce to root veg. 
-* 17:10 Hob: Brocolli & Gravy
-* 17:15 Remove PigsInBlanket, Stuffing, Carrots/Parnsips
+* 13:46 Top oven: 190C add Turkey
+* 16:16 Bottom oven: 180C. Boil potatoes
+* 16:36 Top: Baste Turkey (heat to 200C). Bottom: Add potatoes & carrots/parsnips
+* 16:51 Bottom: Add PigsInBlanket & Stuffing
+* 17:06 Top: Remove Turkey. Bottom: Add sauce to root veg. 
+* 17:16 Hob: Brocolli & Gravy
+* 17:21 Remove PigsInBlanket, Stuffing, Carrots/Parnsips
 
 ## Things
 
