@@ -72,47 +72,9 @@ Cranberry Sauce
 * 14:00 Turkey out to rest with foil added. Boil broccoli for 4m then fry in butter. Make gravy.
 * 14:15 Remove PigsInBlanket, Stuffing, Carrots/Parnsips
 
-
-## Turkey
-
-Turkey: https://www.which.co.uk/reviews/food-and-drink/article/complete-christmas-dinner-menu/how-to-cook-a-turkey-crown-aTuzi7S468QX
-Hugh: https://www.bbc.co.uk/food/recipes/roastleglessturkey_13963
-* 2kg – 1 hour 50 minutes
-* 2.5kg – 2 hours
-* 3kg – 2 hours 10 minutes
-* add butter below skin
-* Cover in foil tent
-* remove foil 30m before end. Baste
-* Leave to rest for 15m in foil
-
-## Pigs in Blanket
-
-* Both in oven at 180C for 30 mins!
-https://www.bbcgoodfood.com/recipes/classic-pigs-blankets
-* 8 rashers streaky bacon
-* 16 chipolatas
-
-## Sausage Stuffing
-
-https://www.bbc.co.uk/food/recipes/sagesausagestuffing_8912
-* onion, garlic
-* 225g sausage meat
-* 1T parsley, 2T sage
-
-## Roasted Potatoes
-
-https://www.bbcgoodfood.com/recipes/ultimate-roast-potatoes
-* 1Kg Maris Piper
-* 180C for 45 min (turn every 15m). After bringing to boil and covering in flour
-
-## Carrots and Parsnips
-
-https://realfood.tesco.com/recipes/sticky-chantenay-carrots-and-parsnips-with-maple-syrup-and-mustard-glaze.html
-* Carrots + Parsnips
-* 2T oo, 2T maple syrup, 1T mustard, 1/2 orange zested
-* 180C for 45m (turn every 15m).
-
-## Broccoli
-
-https://www.jamieoliver.com/recipes/vegetables-recipes/brilliant-broccoli/
-* broccoli
+## Turkey: https://www.which.co.uk/reviews/food-and-drink/article/complete-christmas-dinner-menu/how-to-cook-a-turkey-crown-aTuzi7S468QX
+## Pigs in Blanket: https://www.bbcgoodfood.com/recipes/classic-pigs-blankets
+## Sausage Stuffing: https://www.bbc.co.uk/food/recipes/sagesausagestuffing_8912
+## Roasted Potatoes: https://www.bbcgoodfood.com/recipes/ultimate-roast-potatoes 
+## Carrots and Parsnips: https://realfood.tesco.com/recipes/sticky-chantenay-carrots-and-parsnips-with-maple-syrup-and-mustard-glaze.html
+## Broccoli: https://www.jamieoliver.com/recipes/vegetables-recipes/brilliant-broccoli/
