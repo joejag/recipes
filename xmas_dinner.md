@@ -39,38 +39,7 @@
 5. Stab to check juices run clear. Otherwise put back in the oven
 6. Leave to stand for 15m with foil on it.
 
-====
-
-# Research
-
-## Oven
-
-* Turkey (2hr, 15 rest)
-* Roast potatoes (boil, then 45m)
-* Parsnips & Carrots (45m)
-* Stuffing (Sausage) (30m)
-* Pigs in blankets (30m)
-
-## Hob
-
-* Broccoli (5m)
-* Gravy (5m)
-
-## Cupboard
-
-Cranberry Sauce
-
-# Plan
-
-- Assuming 2:15pm dinner
-
-* Put everything back into fridge two days before
-* 12:00 Turkey goes in oven at 180C in foil (butter under the skin)
-* 13:10 Bring potatos to boil, then put in colindar. heat goose fat in oven tray
-* 13:30 Remove foil off turkey - baste. Add potatoes, Add carrots/parsnips
-* 13:45 PigsInBlanket and Stuffing goes in oven
-* 14:00 Turkey out to rest with foil added. Boil broccoli for 4m then fry in butter. Make gravy.
-* 14:15 Remove PigsInBlanket, Stuffing, Carrots/Parnsips
+# Instructions
 
 ## Turkey: https://www.which.co.uk/reviews/food-and-drink/article/complete-christmas-dinner-menu/how-to-cook-a-turkey-crown-aTuzi7S468QX
 ## Pigs in Blanket: https://www.bbcgoodfood.com/recipes/classic-pigs-blankets
