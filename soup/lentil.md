@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1L ham stock
+- 1.3L ham stock
 - 250g red lentils
 - 3 Carrots
 - 0.5 turnip
