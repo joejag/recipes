@@ -1,3 +1,9 @@
+## Ooni Method
+
+* Dough: 300ml luke warm water, 2t yeast, 20g sugar -> 500g flour, 2t salt -> 2 hour rise -> (250/250/100/100 split) proove for 30m
+* Sauce: 1T oil, 1 garlic -> 400g tomatoes, 2t sugar, 1t salt, basil -> reduce for 20m
+* Assemble: 5T sauce, 100g cheese, toppings. Add pepper after cooked
+
 # Dough
 
 ## Ingredients
@@ -18,6 +24,10 @@
 * Split into 8 balls, refrigerate any you aren't using
 
 # Sauce
+
+## Ingredients
+
+
 
 ## Ingredients
 
