@@ -2,14 +2,13 @@
 
 ## Ingredients
 
-- 1.5L ham stock
+- 1.5L veg stock
 - 250g red lentils
-- 3 Carrots
-- 0.5 turnip
-- 1 leek
-- 10 baby potatoes
+- 5 Carrots
+- 2 leek
+- 5 baby potatoes
 - 2t garlic granules
-- 2t salt and  0.5t pepper
+- 2t salt and  2t pepper
 
 ## Method
 
