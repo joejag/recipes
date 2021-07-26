@@ -1,4 +1,4 @@
-# Beed Souvlaki Kebabs
+# Beef Souvlaki Kebabs
 
 * 30ml oo
 * 2t garlic puree
@@ -34,3 +34,10 @@ Method
 - Add half chickpeas, 1m, scrape, add other half, 2m
 - Add 2.5T water (to smooth out)
 - Garnish with Paprike
+
+# Sticky Red onion 
+
+- Add 1T evoo to pan, red onion slices, season for 10m on low
+- Add 1t sugar for 2m
+- Add 1T balsamic vinegar for 2m on high 
+- Put in bowl and set aside
