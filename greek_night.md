@@ -46,7 +46,7 @@ Method
 
 - Mix
   - 170g greek youghurt
-  - 0.5 cucumber (grated)
+  - 0.5 cucumber (coarsely grated)
   - 1 garlic
   - handful mint leaves
   - pinch salt
