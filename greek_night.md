@@ -41,3 +41,12 @@ Method
 - Add 1t sugar for 2m
 - Add 1T balsamic vinegar for 2m on high 
 - Put in bowl and set aside
+
+# Tzatziki
+
+- Mix
+  - 170g greek youghurt
+  - 0.5 cucumber (grated)
+  - 1 garlic
+  - handful mint leaves
+  - pinch salt
