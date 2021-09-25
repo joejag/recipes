@@ -1,12 +1,12 @@
-* 25g unsalted butter
+* 50g unsalted butter
 * 1 echalion shallot, finely chopped
 * 1 garlic clove, finely sliced
-* 2 large skinless boneless chicken breasts, cut into 1cm-thick slices
+* 3 large skinless boneless chicken breasts, cut into 1cm-thick slices
 * 2 leeks, chopped
 * 50ml Madeira
-* 150ml chicken stock
+* 300ml chicken stock
 * 2 tbsp chopped tarragon leaves
-* 200ml double cream
+* 250ml double cream
 
 ## Method
 
@@ -18,9 +18,7 @@
 * Add Madiera, set FIRE
 * Add Stock, simmer
 * Add Tarragon and cream (simmer for 5m)
-
 * LET COOL
-
 * Brush edge of frying pan with milk
 * Add Pastry
 * Throw in oven for 25m (or until crisp)
