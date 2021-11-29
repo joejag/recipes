@@ -8,5 +8,5 @@
 
 from: https://hintofhelen.com/nandos-spicy-portugese-rice-recipe/
 
-- Marinade 250g panner in 3T Nandos sauce for 15m
-- Shallow fry in butter, add 0.5 salt, 0.5t peri peri spice
+- Marinade 500g panner in 6T Nandos sauce for 15m
+- Shallow fry in butter, add 1t salt, 1t peri peri spice
