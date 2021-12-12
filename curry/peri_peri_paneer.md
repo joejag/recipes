@@ -2,9 +2,9 @@
 
 4 servings
 
-- 3T oil, 1 pepper, 1 onion for 2m
-- Add 2t cumin, 0.5t chili flakes, 2T Turmeric, 1t paprika for 1m
-- Add 250g rice, 1000g chicken stock, bring to boil -> simmer for 30m with lid
+- 3T oil, 1 pepper, 1 onion, garlic for 2m
+- Add 4 tbsp tomato purée, 2t cumin, 0.5t chili flakes, 2T Turmeric, 1t smoked paprika for 1m
+- Add 250g rice, 500g chicken stock, bring to boil -> heat for 7 min, add peas, steam for 7min
 
 from: https://hintofhelen.com/nandos-spicy-portugese-rice-recipe/
 
