@@ -42,7 +42,7 @@ The poolish is used as Italian flour is soft, these days it is mixed with strong
 
 * type 00 : Patent Flour (45 in France)
 * type 0 : plain flour
-* type 1: strong bread flour (65 in France)
+* type 1: strong bread flour (80 in France)
 * type 2: brown flour
 * Integrale : Wholemeal Flour
 
