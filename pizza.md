@@ -1,9 +1,3 @@
-## Ooni Method
-
-- Dough: 300ml luke warm water, 2t yeast, 20g sugar -> 500g flour, 2t salt -> 2 hour rise -> (250/250/100/100 split) proove for 30m
-- Sauce: 1T oil, 1 garlic -> 400g tomatoes, 2t sugar, 1t salt, basil -> reduce for 20m
-- Assemble: 5T sauce, 100g cheese, toppings. Add pepper after cooked
-
 ## Vito Iacopelli Method
 
 https://www.youtube.com/watch?v=OjsCEJ8CWlg
@@ -25,7 +19,6 @@ https://www.youtube.com/watch?v=OjsCEJ8CWlg
   - put olive oil on your hands while forming
   - let proove for 1-2 hours
 - Make pizza
-
   - standard streching
   - 3T of tomato sauce
   - Add parmasan cheese on top
@@ -34,39 +27,17 @@ https://www.youtube.com/watch?v=OjsCEJ8CWlg
 
 - Sauce: can whole tomatoes, handful salt, 12 basil leaves, 1T olive oil. Uses hands to break up
 
-## Generic Method
+## Ratios used by pros
 
-- Disolve the sugar in the warm water in your mixing bowl
-- Add yeast, wait 10 minutes to make sure it's alive
-- Add salt, flour and oil to mixing bowl and fold for 5m
-- Cover and leave to raise for an hour
-- Split into 8 balls, refrigerate any you aren't using
+* Flour
+  * Vito Iacopelli: 60% 00, 40% 1
+  * Pedro Pernambuco: 75% 00, 25% 1
+  * Marco Graziani: 80% 00, 20% 1
+* Water: 1.4 to 1.5 ratio (700g flour means 500ml water)
+* Salt: 2% to 3% of flour weight
 
-# Sauce
+## Ooni Method
 
-## Ingredients
-
-## Ingredients
-
-- 400g tomato chopped
-- 16g olive oil
-- 12g sugar
-- 1g salt
-- 1t basil (leaf)
-- 2t oregano (dried)
-- 0.5t garlic powder
-
-## Method
-
-- Add together and blitz
-
-# Creation
-
-- Put oven on highest temp
-- Spread dough (roll into semolina flour to give texture) to thin
-- Add sauce, cook for 4 minutes
-- Add toppings + cheese, cook for 7 minutes (or until cheese is melted)
-
-# More detailed technique over three stages
-
-https://www.reddit.com/r/Pizza/comments/eoldln/bought_a_baking_steel_this_thing_is_life_changing/fedgj1y/
+- Dough: 300ml luke warm water, 2t yeast, 20g sugar -> 500g flour, 2t salt -> 2 hour rise -> (250/250/100/100 split) proove for 30m
+- Sauce: 1T oil, 1 garlic -> 400g tomatoes, 2t sugar, 1t salt, basil -> reduce for 20m
+- Assemble: 5T sauce, 100g cheese, toppings. Add pepper after cooked
