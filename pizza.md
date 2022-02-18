@@ -30,9 +30,9 @@ https://www.youtube.com/watch?v=OjsCEJ8CWlg
 ## Ratios used by pros
 
 * Flour
-  * Vito Iacopelli: 60% 00, 40% 1
-  * Pedro Pernambuco: 75% 00, 25% 1
-  * Marco Graziani: 80% 00, 20% 1
+  * Vito Iacopelli: 60% type 00, 40% type 0
+  * Pedro Pernambuco: 75% type 00, 25% type 1
+  * Marco Graziani: 80% type 00, 20% type 1
 * Water: 1.4 to 1.5 ratio (700g flour means 500ml water)
 * Salt: 2% to 3% of flour weight
 
