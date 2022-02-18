@@ -38,6 +38,14 @@ https://www.youtube.com/watch?v=OjsCEJ8CWlg
 
 The poolish is used as Italian flour is soft, these days it is mixed with strong Candian flours.
 
+### Itailian to UK naming conversions:
+
+* type 00 : Patent Flour
+* type 0 : plain flour
+* type 1: strong bread flour
+* type 2: brown flour
+* Integrale : Wholemeal Flour
+
 ## Ooni Method
 
 - Dough: 300ml luke warm water, 2t yeast, 20g sugar -> 500g flour, 2t salt -> 2 hour rise -> (250/250/100/100 split) proove for 30m
