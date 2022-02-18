@@ -40,6 +40,8 @@ The poolish is used as Italian flour is soft, these days it is mixed with strong
 
 ### Itailian to UK naming conversions:
 
+https://www.dovesfarm.co.uk/hints-tips/cheat-sheets/european-flour-numbering-system
+
 * type 00 : Patent Flour (45 in France)
 * type 0 : plain flour
 * type 1: strong bread flour (80 in France)
