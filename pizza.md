@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=OjsCEJ8CWlg
 * Water: 1.4 to 1.5 ratio (700g flour means 500ml water)
 * Salt: 2% to 3% of flour weight
 
+The poolish is used as Italian flour is soft, these days it is mixed with strong Candian flours.
+
 ## Ooni Method
 
 - Dough: 300ml luke warm water, 2t yeast, 20g sugar -> 500g flour, 2t salt -> 2 hour rise -> (250/250/100/100 split) proove for 30m
