@@ -13,14 +13,14 @@
   - 500g beef mince
 - 4:
   - 800g tomatoes
-  - 1t oregano
-  - 2 bay leaves
   - 2T tomato puree
-  - 1 beef stock cube (125ml water)
-  - 1 red chili
   - 1t sugar
+  - 1 beef stock cube (125ml water)
   - 50ml Hendersons relish
   - 50ml milk
+  - 1t oregano
+  - 2 bay leaves
+  - 1 red chili
 - 5:
   - 75g parmesan
   - basil leaves
