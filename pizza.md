@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=OjsCEJ8CWlg
   - Leave open for 15m, then seal, leave in fridge for 12+ hours (not over a day)
   - Give one hour to come back to room temp before using
 - Make Dough:
-  - Mix: 300g water, 20g salt
+  - Mix: 200g water, 20g salt (was 300ml water)
   - Add 300g of Manitoba (Canadian strong flour), 200g 00 flour
   - Add Poolish, add water over time
   - tap olive oil on dough, rest for 15m uncovered
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=OjsCEJ8CWlg
 - Shape Dough balls:
   - 250-280g per dough ball
   - put olive oil on your hands while forming
-  - let proove for 1-2 hours
+  - let prove for 1-2 hours
 - Make pizza
   - standard streching
   - 3T of tomato sauce
