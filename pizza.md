@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=OjsCEJ8CWlg
   - Leave open for 15m, then seal, leave in fridge for 12+ hours (not over a day)
   - Give one hour to come back to room temp before using
 - Make Dough:
-  - Mix: 200g water, 20g salt (was 300ml water)
+  - Mix: 220g water, 20g salt (was 300ml water)
   - Add 300g of Manitoba (Canadian strong flour), 200g 00 flour
   - Add Poolish, add water over time
   - tap olive oil on dough, rest for 15m uncovered
