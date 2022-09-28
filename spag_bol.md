@@ -2,17 +2,17 @@
 
 - 1:
   - 1T olive oil
-  - 4 bacon
 - 2:
   - 2 onion
   - 2 carrots
   - 2 celery
   - 2 garlic
-  - 1t rosemary leaves or thyme
+  - 4 bacon
 - 3:
   - 500g beef mince
 - 4:
   - 800g tomatoes
+  - 6 halved cherry tomatos
   - 2T tomato puree
   - 1t sugar
   - 1 beef stock cube (125ml water)
