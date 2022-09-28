@@ -21,6 +21,7 @@
   - 1t oregano
   - 2 bay leaves
   - 1 red chili
+  - 125ml red wine
 - 5:
   - 75g parmesan
   - basil leaves
