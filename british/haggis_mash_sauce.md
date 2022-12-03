@@ -22,9 +22,7 @@
 
 ## Ingredients
 
-* 100ml chicken stock
-* Splash whisky to taste
-* 200ml double cream
+https://scottishscran.com/whisky-sauce-for-haggis-recipe/
 
 ## Method
 
