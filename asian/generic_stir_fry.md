@@ -9,13 +9,13 @@
   - ½t white pepper
   - ½t salt
 - 2 garlic cloves, 50g mangetout, 1 red pepper
-- pre-made sauce
+- pre-made sauce. Oytser better for beef
 
 # Method
 
 1. Mariande meat (cut chicken, leave steak whole)
 1. Cook noodles for 4m, then drain under cold water
-1. Heat wok on high, add 1T groundnut oil, cook meat for 2m
+1. Heat wok on high, add 1T groundnut oil, cook meat for 2-5m until outside is cooked
 1. Remove meat, wipe wok, add 1.tT groundnut oil
 1. Add 2 garlic cloves, 50g mangetout, chopper red pepper for 1m
 1. Add noodles plus sauce for 2m (2t light soy, 2t dark soy, 1T rice wine, 0.5t caster sugar, s&p)
