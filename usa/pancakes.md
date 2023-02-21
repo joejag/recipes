@@ -1,6 +1,6 @@
 # Stuff
 
-- Dry: 135g plain flour, 2t baking powder, 2T caster sugar, ½t salt
+- Dry: 135g plain flour, 1.5t baking powder, 2T caster sugar, ½t salt
 - Wet: 130ml milk, 1 egg, 2T melted butter
 
 # Technique
