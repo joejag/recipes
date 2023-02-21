@@ -1,12 +1,12 @@
 # Stuff
 
-135g plain flour
-1t baking powder
-½t salt
-2T caster sugar
-130ml milk
-1 egg, lightly beaten
-2T melted butter (allowed to cool slightly), plus extra for cooking
+- 135g plain flour
+- 1t baking powder
+- ½t salt
+- 2T caster sugar
+- 130ml milk
+- 1 egg, lightly beaten
+- 2T melted butter (allowed to cool slightly), plus extra for cooking
 
 # Technique
 
