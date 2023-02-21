@@ -12,5 +12,5 @@
 
 1. Sift 135g flour, 1t baking powder, 2T caster sugar, 0.5t salt in mixing bowl
 2. Melt butter in pan
-3. In separate thing, whisk milk and egg, then add butter. Combine with flour mix
+3. In separate thing, whisk milk and egg, then add butter. Combine with flour mix (don't overmix) and leave to stand for 2m.
 4. Heat pan on med, add knob butter. Add ladle of batter. Cook 3m (bubble, edges set) then flip, cook for 2m
