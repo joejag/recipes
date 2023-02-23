@@ -18,6 +18,6 @@
 1. Heat wok on high, add 1T groundnut oil, cook meat for 2-5m until outside is cooked
 1. Remove meat, wipe wok, add 2T groundnut oil (cover wok)
 1. Add 2 garlic cloves, 50g mangetout, chopper red pepper for 1m
-1. Add noodles plus sauce for 2m (2t light soy, 2t dark soy, 1T rice wine, 0.5t caster sugar, s&p)
+1. Add noodles plus sauce for 2m
 1. Add meat for 3m
 1. Finish with 1t sesame oil, spring onions and furikake
