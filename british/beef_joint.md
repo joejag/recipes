@@ -22,9 +22,4 @@
 - Put tempature check into middle, leave for 20s, check it is 60c for med (50c is rare, 70c is well done)
 - Rest meat for 30m on a different tray that catches juices
 
-- Heat tray on medium heat, Add 1T plain flour to tray, squeeze the garlic, onions with potato masher
-- Add 125ml red wine, add 1T Jam
-- Add 1l beef stock, bring to boil then simmer for 30m
-- Add juices from resting meat, then sieve through
-
 https://www.jamieoliver.com/recipes/beef-recipes/roast-topside-of-beef/
