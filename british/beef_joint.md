@@ -6,10 +6,6 @@
 - garlic bulb
 - woody herb
 - olive oil, s&p
-- plain flour
-- cranberry jam
-- red wine
-- beef stock
 
 ## Method
 
